@@ -1,7 +1,7 @@
 <script>
     import WorkHistoryCard from "../components/WorkHistoryCard.svelte";
     let sonrai_logo = '/images/sonrai_logo.jpeg';
-    let sonrai_highlights = ['Made stuff', 'Did things', 'More stuff', 'And again'];
+    let sonrai_highlights = ['Made', 'Did ', 'More ', 'And '];
     let title = 'Chief butter-patter';
 </script>
 
